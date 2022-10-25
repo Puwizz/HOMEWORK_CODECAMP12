@@ -5,6 +5,6 @@
      1. ห้ามใช้ Bootstrap
      2. สนใจเฉพาะส่วนที่วงสีแดง
      3. upload ขึ้น github.io
-- ไฟล์งาน: https://github.com/Puwizz/Homework_codecamp_12/tree/main/1-HTML/Homework2
+- ไฟล์งาน: https://github.com/Puwizz/HOMEWORK_CODECAMP12/tree/main/1-HTML/Homework_2
 
-- Web link: https://puwizz.github.io/booking.html
+- Web link: https://puwizz.github.io/Homework_HTML/booking.html

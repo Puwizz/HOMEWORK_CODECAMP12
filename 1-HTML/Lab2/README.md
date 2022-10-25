@@ -7,4 +7,4 @@
   3. แท็ก &lt;b>, &lt;i> ต่างจาก &lt;strong>, &lt;em> หรือไม่ อย่างไร? (5 นาที)
   4. หา tag ที่สามารถแสดงข้อความกลับหลังได้ เช่น โปรแกรมเมอร์ แสดงเป็น ร์อมเมรกแรปโ
 
-- ไฟล์งาน: https://github.com/Puwizz/Homework_codecamp_12/tree/main/1-HTML/Lab2
+- ไฟล์งาน: https://github.com/Puwizz/HOMEWORK_CODECAMP12/tree/main/1-HTML/Lab2
