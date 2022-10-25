@@ -13,6 +13,6 @@
        * ชื่อ-นามสกุล,​ ชื่อเล่น,เลขที่, ชื่อกลุ่ม,​ เบอร์โทร, site(github.io)
        * มี link ไปยัง 2 หน้าที่เหลือ (index.html + profile.html)
    4. เมื่อเรียบร้อยแล้ว ให้ส่ง web site นี้ขึ้น github.io ของตัวเอง
- - ไฟล์งาน: https://github.com/Puwizz/Homework_codecamp_12/tree/main/1-HTML/Homework1
+ - ไฟล์งาน: https://github.com/Puwizz/HOMEWORK_CODECAMP12/tree/main/1-HTML/Homework_1
  
- - Web Link : https://puwizz.github.io/
+ - Web Link : https://puwizz.github.io/Homework_HTML
