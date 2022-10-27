@@ -22,9 +22,9 @@
     - อีกรอบ 
 
 
- > มี conflict : "test-1.txt"  
- > ไม่มี conflict : "test-2.txt"   
- > เพิ่ม comment : test-2.txt 
+ > มี conflict : "test_1.txt"  
+ > ไม่มี conflict : "test_2.txt"   
+ > เพิ่ม comment : test_3.txt 
     
 
 
