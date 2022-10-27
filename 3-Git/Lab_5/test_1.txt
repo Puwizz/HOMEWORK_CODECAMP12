@@ -1,2 +1,2 @@
-Hello conflict
+conflict 001
 * add conflict
