@@ -1,2 +1,2 @@
-Hello conflict
+conflict
 ** add conflict **
